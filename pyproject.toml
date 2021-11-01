@@ -6,6 +6,8 @@ authors = ["Mathieu Tarral <mathieu.tarral@protonmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+apache-libcloud = "^3.3.1"
+fasteners = "^0.16.3"
 
 [tool.poetry.dev-dependencies]
 pyfakefs = "^4.5.1"
